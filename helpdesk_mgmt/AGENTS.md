@@ -3,8 +3,8 @@
 ## Purpose
 
 Helpdesk on Community: tickets (`helpdesk.ticket`) with stages, teams
-(`helpdesk.ticket.team`), categories, tags (`helpdesk.ticket.tag`), channels, priorities,
-portal access for customers and creation by mail alias.
+(`helpdesk.ticket.team`), categories, tags (`helpdesk.ticket.tag`), channels,
+priorities, portal access for customers and creation by mail alias.
 
 ## Notes for 20.0
 
